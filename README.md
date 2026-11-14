@@ -9,7 +9,7 @@
 
 I build **event-driven backend systems on the JVM** (Java, Spring Boot) and run them on **AWS** and **GCP**. I have 4+ years of experience across telecom, e-commerce and fintech. I like owning a system end to end, from the architecture to how it behaves in production, and I design around the failure cases first.
 
-- 🏢 **Senior Backend Software Engineer at Etisalat (e&)**, working on the Twist platform: accounts, subscriptions, loyalty and commerce
+- 🏢 **Senior Backend Software Engineer at Etisalat**, working on the Twist platform: accounts, subscriptions, loyalty and commerce
 - 🛒 Previously at **Wayfair** in Berlin, building order fulfillment services on GCP
 - 🤖 **AI backend consultant for Finc Wealth**, a fintech building tools for asset managers on the Egyptian market
 - 🎓 MSc in Computer Science, **German International University Berlin**, with a focus on machine learning and AI
@@ -18,7 +18,7 @@ I build **event-driven backend systems on the JVM** (Java, Spring Boot) and run 
 
 ## 🔧 What I've built
 
-### At Etisalat (e&): Twist platform
+### At Etisalat: Twist platform
 
 | Project | What it does | Stack |
 |---|---|---|
